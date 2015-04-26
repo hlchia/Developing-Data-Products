@@ -9,4 +9,4 @@ In my course on regression modeling, using backward selection (“Step Model”)
 
 A decription of the dataset used can be found at : https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html
 
-**Note**: Since I didn't use the API to collect data, the current data might not be 100% accurate.   
+ 
