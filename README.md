@@ -1,7 +1,9 @@
 Developing Data Products Project - Vehicle MPG Prediction  
 ==========================================================
 
-This Shiny App is for predicting vehicle fuel consumption efficiency aka MPG.
+This Shiny App is for predicting vehicle fuel consumption efficiency aka MPG, by keying in vehicle weight, 1/4 mile sec and transmission type.
+
+The web app can be found at https://hlchia.shinyapps.io/shiny_mpg/
 
 The dataset is the ‘mtcars’ dataset, which contains fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models) from the 1974 Motor Trend magazine, to explore the relationship between a set of variables and miles per gallon (MPG) (outcome). 
 
